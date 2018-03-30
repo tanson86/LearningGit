@@ -1,6 +1,3 @@
-ND,F,1988,Amanda,157
-ND,F,1989,Amandab,157
-ND,F,1989,Amanda,157
 ND,F,1989,Amand,150
 ND,F,1989,Aman,145
 ND,F,1989,Ama,140
@@ -20,9 +17,3 @@ ND,M,1989,Amanda,157
 ND,M,1989,Amand,150
 ND,M,1989,Aman,145
 ND,M,1989,Ama,140
-
-
-
-
-
-
